@@ -21,7 +21,7 @@ repository               : "SJTU-MIRUS.github.io/MIRUS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MIRUS.png"
+  avatar           : "MIRUSicon.png"
   name             : "MIRUS"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
