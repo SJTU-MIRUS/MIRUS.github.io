@@ -19,6 +19,9 @@ Work experience
 
 <img src='../images/500x300.png'>
 
+<img src='../images/500x300.png'> | 描述该图片的内容
+---|---
+
 {% include base_path %}
 
 {% for post in site.people reversed %}
