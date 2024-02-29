@@ -19,8 +19,16 @@ Work experience
 
 <img src='../images/500x300.png'>
 
-<img src='../images/500x300.png'> | 描述该图片的内容
----|---
+<table style="width: 500px;">
+  <tr>
+    <th>表头1</th>
+    <th>表头2</th>
+  </tr>
+  <tr>
+    <td>数据1</td>
+    <td>数据2</td>
+  </tr>
+</table>
 
 {% include base_path %}
 
