@@ -17,7 +17,7 @@ Work experience
 ======
 * TODO
 
-![猫咪](https://example.com/cat.jpg) | 这是一只可爱的小猫咪| ![猫咪](https://example.com/cat.jpg) | 
+<img src='./images/500x300.png'>| 这是一只可爱的小猫咪| <img src='./images/500x300.png'> | 
 ---|---|---|
 
 {% include base_path %}
