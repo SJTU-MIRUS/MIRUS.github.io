@@ -19,7 +19,7 @@ Work experience
 
 <img src='../images/500x300.png'>
 
-<table style="width: 500px; border: 0; border-collapse: collapse;">
+<table style="width: 50%; border: 0; border-collapse: collapse;">
   <tr>
     <th style="border: 0;">表头1</th>
     <th style="border: 0;">表头2</th>
