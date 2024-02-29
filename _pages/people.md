@@ -14,11 +14,11 @@ PHD Students
   <tr>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
     <th style="border: 0;text-align: left;">
-    __wenhao gan__ <br>
+    <span style="font-size: larger;">Wenhao Gan</span> <br><br>
     <b>M.S.</b> <br>
     <b>B.S</b> <br>
-    **Research Interests:** <br>
-    **Email:** <br>
+    <b>Research Interests:</b> <br>
+    <b>Email:</b> <br>
     </th>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
     <th style="border: 0;">内容</th>
