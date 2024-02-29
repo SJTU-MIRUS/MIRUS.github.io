@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JOIN US"
+title: "Join us"
 permalink: /joinus/
 author_profile: true
 ---
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.joinus reversed %}
   {% include archive-single.html %}
 {% endfor %}
