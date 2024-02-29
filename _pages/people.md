@@ -22,11 +22,11 @@ Work experience
 <table style="width: 70%; border: 0; border-collapse: collapse;">
   <tr>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
-    <th style="border: 0;">表头2</th>
+    <th style="border: 0;"><img src='../images/500x300.png'></th>
   </tr>
   <tr>
-    <td style="border: 0;"><img src='../images/500x300.png'></td>
-    <td style="border: 0;">数据2</td>
+    <td style="border: 0;">描述</td>
+    <td style="border: 0;">描述</td>
   </tr>
 </table>
 
