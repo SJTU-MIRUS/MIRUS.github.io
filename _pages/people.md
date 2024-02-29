@@ -17,7 +17,7 @@ Work experience
 ======
 * TODO
 
-<img src='./images/500x300.png'>
+<img src='../images/500x300.png'>
 
 {% include base_path %}
 
