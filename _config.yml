@@ -259,7 +259,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: news
+      type: research
     values:
       layout: single
       author_profile: true
