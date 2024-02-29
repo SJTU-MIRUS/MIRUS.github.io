@@ -17,8 +17,7 @@ Work experience
 ======
 * TODO
 
-<img src='./images/500x300.png'>| 这是一只可爱的小猫咪| <img src='./images/500x300.png'> | 
----|---|---|
+<img src='./images/500x300.png'>
 
 {% include base_path %}
 
