@@ -210,6 +210,9 @@ collections:
   collaborations:
     output: true
     permalink: /:collection/:path/
+  joinus:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -284,6 +287,15 @@ defaults:
   - scope:
       path: ""
       type: collaborations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _joinus
+  - scope:
+      path: ""
+      type: joinus
     values:
       layout: single
       author_profile: true
