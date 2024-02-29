@@ -13,7 +13,7 @@ PHD Students
 <table style="width: 100%; border: 0; border-collapse: collapse;">
   <tr>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
-    <th style="border: 0;text-align: left;">
+    <th style="border: 0;text-align: left;vertical-align: top;">
     <span style="font-size: larger;">Wenhao Gan</span> <br><br>
     <b>M.S.</b> <br>
     <b>B.S</b> <br>
