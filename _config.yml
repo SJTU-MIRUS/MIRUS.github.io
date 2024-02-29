@@ -207,6 +207,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
+  collaborations:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -272,6 +275,15 @@ defaults:
   - scope:
       path: ""
       type: people
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _collaborations
+  - scope:
+      path: ""
+      type: collaborations
     values:
       layout: single
       author_profile: true
