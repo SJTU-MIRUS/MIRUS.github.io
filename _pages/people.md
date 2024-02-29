@@ -17,6 +17,9 @@ Work experience
 ======
 * TODO
 
+![猫咪](https://example.com/cat.jpg) | 这是一只可爱的小猫咪| ![猫咪](https://example.com/cat.jpg) | 
+---|---|---|
+
 {% include base_path %}
 
 {% for post in site.people reversed %}
