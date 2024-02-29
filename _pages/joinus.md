@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "JOIN US"
+permalink: /joinus/
 author_profile: true
 ---
 
