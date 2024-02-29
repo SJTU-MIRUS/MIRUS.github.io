@@ -19,14 +19,14 @@ Work experience
 
 <img src='../images/500x300.png'>
 
-<table style="width: 500px;">
+<table style="width: 500px; border: 0; border-collapse: collapse;">
   <tr>
-    <th>表头1</th>
-    <th>表头2</th>
+    <th style="border: 0;">表头1</th>
+    <th style="border: 0;">表头2</th>
   </tr>
   <tr>
-    <td>数据1</td>
-    <td>数据2</td>
+    <td style="border: 0;">数据1</td>
+    <td style="border: 0;">数据2</td>
   </tr>
 </table>
 
