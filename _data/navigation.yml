@@ -2,24 +2,22 @@
 main:
   - title: "NEWS"
     url: /news/
+
+  - title: "RESEARCH"
+    url: /research/
     
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "TEACHING"
+    url: /teaching/  
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "PEOPLE"
+    url: /people/    
+    
+  - title: "COLLABORATIONS"
+    url: /collaborations/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "JOIN US"
+    url: /joinus/
+  
