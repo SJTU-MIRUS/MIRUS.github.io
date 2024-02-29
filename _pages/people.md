@@ -1,28 +1,23 @@
 ---
 layout: archive
-title: "People"
+title: "Members"
 permalink: /people/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-Education
+PHD Students
 ======
-* TODO
-
-Work experience
-======
-* TODO
-
-<img src='../images/500x300.png'>
-
+<hr style="height:1px;border:none;border-top:1px solid #555555;" />  实线，一条直线
 <table style="width: 70%; border: 0; border-collapse: collapse;">
   <tr>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
-    <th style="border: 0;">内容</th>
+    <th style="border: 0;">
+    **wenhao gan** <br>
+    **M.S.** <br>
+    **B.S.** <br>
+    **Research Interests:** <br>
+    **Email:** <br>
+    </th>
     <th style="border: 0;"><img src='../images/500x300.png'></th>
     <th style="border: 0;">内容</th>
   </tr>
