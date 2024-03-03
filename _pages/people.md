@@ -8,7 +8,7 @@ author_profile: true
 <div style="border-left: 5px solid #ff0000; padding-left: 10px;">
 **<span style="font-size: 20px;">这是一段加粗并增大字号的文字</span>**
 </div>
-<hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
+
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 <table style="width: 100%; border: 0; border-collapse: collapse;">
   <tr>
