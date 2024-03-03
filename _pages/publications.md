@@ -17,7 +17,7 @@ author_profile: true
     Xu Zhi, Hongbo Zhu, Hua Chen, Wei Zhang <br>
     Polytopic Planar Region Characterization of Rough Terrains for Legged Locomotion  <br>
     In: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. <br>
-    <b>Email:</b> <br>
+    <a href="[mailto:example@example.com](https://www.baidu.com/)">Links</a>
     </th>
   </tr>
 </table>
