@@ -37,7 +37,7 @@ author_profile: true
       <span style="font-size: larger;">Wenhao Gan</span> <br><br>
       Email: <br>
       Profile:  Wei Zhang received the B.S. in Automatic Control from the University of Science and Technology of China in 2003, the M.S. in Electrical and Computer Engineering from the University of Kentucky in 2005, and the M.S. in Statistics and the Ph.D. in Electrical Engineering both from Purdue University in 2009. From January 2010 to August 2011, he was a Postdoctoral Researcher in the EECS Department at the University of California, Berkeley. He served as an Assistant Professor (2011 – 2017) and then an Associate Professor (with tenure) of Electrical and Computer Engineering at the Ohio State University. In May 2019, he joined the Southern University of Science and Technology, Shenzhen, China, where he is currently a Professor in the School of System Design and Intelligent Manufacturing. His research interests include control and optimization theory, machine learning, motion planning, and their applications in robotics and autonomous systems. He is a recipient of the NSF CAREER award and the Lumley Research Award at the Ohio State University. He is currently a Senior Member of IEEE and an Associate Editor of the IEEE Transactions on Control System Technology.<br>
-      Research Interest:  Control and Optimization Theory, Robotics, Machine Learning, Autonomous Systems
+      <strong>Research Interest:</strong>  Control and Optimization Theory, Robotics, Machine Learning, Autonomous Systems
     </th>
   </tr>
 </table>
