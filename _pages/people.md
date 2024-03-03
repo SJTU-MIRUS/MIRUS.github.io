@@ -16,7 +16,7 @@ author_profile: true
     <col style="width: 70%;">
   </colgroup>
   <tr>
-    <th style="border: 0;vertical-align: top;width: 30%"><img src='../images/TestIcon.png'style="display: block; margin: auto;"></th>
+    <th style="border: 0;vertical-align: top;width: 30%"><img src='../images/TestIcon.png' style="display: block; margin: auto;"></th>
     <th style="border: 0;text-align: left;vertical-align: top;">
     <span style="font-size: larger;">Wenhao Gan</span> <br><br>
     <b>Email:</b> <br>
