@@ -10,7 +10,7 @@ author_profile: true
 </div>
 
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
-<table style="width: 100%; border: 0; border-collapse: collapse;">
+<table style="width: 100%; border: 0; border-collapse: collapse;font-family: 'Roboto', sans-serif;">
   <colgroup>
     <col style="width: 30%;">
     <col style="width: 70%;">
