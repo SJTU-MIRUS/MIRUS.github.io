@@ -11,6 +11,10 @@ author_profile: true
 
 <hr style="height:1px;border:none;border-top:1px solid #555555;" /> 
 <table style="width: 100%; border: 0; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 30%;">
+    <col style="width: 70%;">
+  </colgroup>
   <tr>
     <th style="border: 0;vertical-align: top"><img src='../images/TestIcon.png'></th>
     <th style="border: 0;text-align: left;vertical-align: top;">
