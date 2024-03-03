@@ -5,6 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 
+<br> <!-- 这里添加了一个空行 -->
+
 <div style="border-left: 5px solid #ff0000; padding-left: 10px;">
 <span style="font-size: 20px;"><b>Professor (Principle Investigator)</b></span>
 </div>
@@ -25,6 +27,8 @@ author_profile: true
     </th>
   </tr>
 </table>
+
+<br> <!-- 这里添加了一个空行 -->
 
 <div style="border-left: 5px solid #ff0000; padding-left: 10px;">
 <span style="font-size: 20px;"><b>PHD Students</b></span>
