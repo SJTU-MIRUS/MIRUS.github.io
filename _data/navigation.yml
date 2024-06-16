@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "NEWS"
+    url: /news/
+
+  - title: "RESEARCH"
+    url: /research/
+    
+  - title: "PUBLICATIONS"
+    url: /publications/
+
+  - title: "TEACHING"
+    url: /teaching/  
+    
+  - title: "PEOPLE"
+    url: /people/    
+    
+  - title: "COLLABORATIONS"
+    url: /collaborations/
+        
+  - title: "JOIN US"
+    url: /joinus/
+  
