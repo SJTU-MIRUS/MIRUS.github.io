@@ -19,6 +19,7 @@ citation:
     
     <h2>Part I: Simulation experiments</h2>
     <video src="../videos/CG-S.mp4" autoplay="true" controls="controls" width="800" height="400"></video>
+    <video src="../videos/CG-S1.mp4" autoplay="true" controls="controls" width="800" height="400"></video>
 
     <h2>Part II: Field experiments</h2>
     <video src="../videos/CG-F.mp4" autoplay="true" controls="controls" width="800" height="400"></video>
