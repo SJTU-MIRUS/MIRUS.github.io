@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  /* 强制所有段落和列表项两端对齐，避免右侧参差不齐 */
+  p, li {
+    text-align: justify;
+  }
+</style>
+
 **Full Publications can be found at:** [https://scholar.google.com/citations?user=m8LhY94AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=m8LhY94AAAAJ&hl=zh-CN)
 
 ## Selected Publications:
