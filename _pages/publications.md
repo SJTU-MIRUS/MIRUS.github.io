@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="text-align: justify;">
-
 **Full Publications can be found at:** [https://scholar.google.com/citations?user=m8LhY94AAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=m8LhY94AAAAJ&hl=zh-CN)
 
 ## Selected Publications:
