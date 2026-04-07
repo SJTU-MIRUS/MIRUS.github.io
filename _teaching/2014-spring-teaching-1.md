@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Intelligent Marine Vehicle Basics II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate course, Shanghai Jiao Tong University, School of Ocean and Civil Engineering, From 2023 to present.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a core course for undergraduates majoring in Ocean Engineering. It aims to combine the knowledge of traditional maneuvering theories together with the control theories, to provide the theoretical and practical basics for the intelligent control of marine vehicles.
