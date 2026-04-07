@@ -9,6 +9,8 @@ redirect_from:
 
 <img src="./images/FMIRUS.png" alt="MIRUS Laboratory" style="width: 100%; max-width: 1000px; display: block; margin: 0 auto 30px auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
+<div style="text-align: justify;">
+
 The Marine Intelligent Robotics and Unmanned Systems Laboratory (MIRUS) is dedicated to breaking through key technologies in the fields of deep-sea exploration, marine resource development, environmental monitoring, and marine ranching. With intelligent perception, autonomous decision-making, collaborative operation, and environmental adaptation as its core driving forces, the laboratory conducts systematic and forward-looking research and development focused on the following four key directions:
 
 - **Advanced Navigation and Control Methods for Marine Robotics**
@@ -29,3 +31,4 @@ The Marine Intelligent Robotics and Unmanned Systems Laboratory (MIRUS) is dedic
 
 This laboratory aims, through the interdisciplinary integration and collaborative innovation in the aforementioned frontier directions, to overcome bottlenecks in individual intelligence and group collaboration of marine robotics, enhancing their autonomy, adaptability, cooperativity, and operational effectiveness in extreme and complex environments. It strives to provide an “intellectual engine” for humanity to gain a deeper understanding of the ocean and harness its potential.
 
+</div>
