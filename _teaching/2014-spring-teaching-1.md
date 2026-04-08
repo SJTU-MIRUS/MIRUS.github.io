@@ -1,11 +1,7 @@
 ---
 title: "Intelligent Marine Vehicle Basics II"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 Undergraduate course, Shanghai Jiao Tong University, School of Ocean and Civil Engineering, From 2023 to present.
