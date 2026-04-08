@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Underwater Robots"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Shanghai Jiao Tong University, School of Ocean and Civil Engineering"
+date: 2026-04-08
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<style>
+  /* 这段代码会让这个页面里的所有段落(p)和列表(li)都自动两端对齐 */
+  p, li {
+    text-align: justify;
+  }
+</style>
 
-Heading 1
-======
+Undergraduate course, Shanghai Jiao Tong University, School of Ocean and Civil Engineering, From 2026 to present.
 
-Heading 2
-======
-
-Heading 3
-======
+This course is an essential foundational professional course established to adapt to the current advancements in underwater intelligent technology. The course aims to equip students with an understanding of the technical framework and developmental trajectory of underwater robots (UUVs/ROVs), comprehend their core value in ocean exploration and industry, and systematically learn the fundamental principles of core technologies such as structural design, electronic control systems, navigation and perception, path planning, and control algorithms. It is dedicated to cultivating versatile talents possessing the capability of 'systematic thinking + technological innovation,' to serve the intelligent development of underwater equipment.
