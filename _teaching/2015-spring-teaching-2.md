@@ -2,7 +2,7 @@
 title: "Underwater Robots"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-2
 venue: "Shanghai Jiao Tong University, School of Ocean and Civil Engineering"
 date: 2026-04-018
 location: "Shanghai, China"
